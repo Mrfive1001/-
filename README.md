@@ -9,3 +9,4 @@ requests
 1 豆瓣top250 python2.7 
 2 盗墓笔记全文下载 python2.7
 3 淘宝模特图片  python2.7
+4 图书馆个人信息 python3.6
