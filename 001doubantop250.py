@@ -1,3 +1,4 @@
+#python2.7
 import requests
 from bs4 import BeautifulSoup
 DOWNLOAD_URL = 'http://movie.douban.com/top250/'
